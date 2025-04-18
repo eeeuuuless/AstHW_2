@@ -60,7 +60,7 @@ public class Main {
     }
 
     private static void printMenu() {
-        System.out.println("\nUser Service Menu:");
+        System.out.println("\nПользовательское меню:");
         System.out.println("1. Создать пользователя");
         System.out.println("2. Найти пользователя по идентификатору");
         System.out.println("3. Найти всех пользователей");
