@@ -1,4 +1,3 @@
-package com.example;
 
 
 import dao.UserDao;
@@ -8,7 +7,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import test.HibernateTest;
 
-import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Scanner;
 
